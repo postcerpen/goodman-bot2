@@ -1,4 +1,4 @@
-{
+ {
   "name": "goodman-bot",
   "version": "1.0.0",
   "description": "this is my second project",
@@ -24,8 +24,4 @@
     "url": "https://github.com/postcerpen/goodman-bot2/issues"
   },
   "homepage": "https://github.com/postcerpen/goodman-bot2#readme"
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> fb2284b57b3e86c96c800ef6cf3367be34077e9c
+
